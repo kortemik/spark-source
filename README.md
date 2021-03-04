@@ -1,5 +1,10 @@
 # spark-source
 
+```
+sc.version
+res1: String = 2.4.0-cdh6.2.0
+```
+
 Driver logs
 ```
 ArchiveMicroBatchReader>
